@@ -1,0 +1,6 @@
+{
+  "name": "HiveNexa",
+  "description": "Dual-role IoT, AI Melissopalynology, and Blockchain Honey Traceability platform for the KVIC Honey Mission.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
